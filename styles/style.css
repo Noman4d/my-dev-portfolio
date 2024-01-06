@@ -46,5 +46,13 @@ font-weight: 800;
 font-size: 30px;
 }
 .banner{
-    padding: 30px 200px 30px 150px;
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+    
+
+}
+.banner img{
+    width: 500px;
+
 }
