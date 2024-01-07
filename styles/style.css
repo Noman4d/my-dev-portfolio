@@ -161,3 +161,32 @@ font-weight: 700;
     text-align: center;
     margin: 50px 40%;
 }
+.footers{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+   
+}
+#footer-kotha{
+   
+   display: block;
+   color: var(--Dark-02, #474747);
+font-family: Open Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+margin-left: 90px;
+}
+.footer-heading{
+    margin-right: 200px;
+    
+}
+#foothead{
+    text-align: center;
+    
+}
+.footer-second{
+   margin-right: 300px;
+}
