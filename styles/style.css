@@ -184,9 +184,33 @@ margin-left: 90px;
     
 }
 #foothead{
-    text-align: center;
+    margin-bottom: 120px;
+    margin-left: 120px;
     
 }
 .footer-second{
    margin-right: 300px;
+}
+input{
+   border: none;
+   margin-bottom: 20px;
+   height: 40px;
+   
+}
+textarea{
+    border: none;
+}
+.btn-subbb{
+    border-radius: 5px;
+    background: #FD6E0A;
+    width: 150px;
+    height: 64px;
+    flex-shrink: 0;
+    border: none;
+    color: wheat;
+    
+}
+.btn-submit{
+    margin-top: 50px;
+    margin-left: 190px;
 }
